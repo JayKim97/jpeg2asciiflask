@@ -19,7 +19,7 @@ python3 app.py
 | Original | Ascii |
 | :------: | :---: |
 
-| ![](https://github.com/JayKim97/jpeg2asciiflask/blob/main/server/static/uploads/Lenna.png) | ![](https://github.com/JayKim97/jpeg2asciiflask/blob/main/server/static/results/result.png) |
+| ![](https://github.com/JayKim97/jpeg2asciiflask/blob/main/server/static/uploads/Lenna.png | width=100) | ![](https://github.com/JayKim97/jpeg2asciiflask/blob/main/server/static/results/result.png | width=100) |
 
 ## Contributing
 
