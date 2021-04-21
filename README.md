@@ -4,6 +4,8 @@ jpeg2asciiflask is a Web application implementation of my previous Python applic
 
 ## Installation
 
+requirements [pipenv](https://pypi.org/project/pipenv/) & python3
+
 '''bash
 git clone https://github.com/JayKim97/jpeg2asciiflask.git
 cd jpeg2asciiflask
