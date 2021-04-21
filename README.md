@@ -18,7 +18,7 @@ python3 app.py
 
 |                                                   Original                                                    |                                                     Ascii                                                      |
 | :-----------------------------------------------------------------------------------------------------------: | :------------------------------------------------------------------------------------------------------------: |
-| <img src="https://github.com/JayKim97/jpeg2asciiflask/blob/main/server/static/uploads/Lenna.png" width="100"> | <img src="https://github.com/JayKim97/jpeg2asciiflask/blob/main/server/static/results/result.png" width="100"> |
+| <img src="https://github.com/JayKim97/jpeg2asciiflask/blob/main/server/static/uploads/Lenna.png" width="250"> | <img src="https://github.com/JayKim97/jpeg2asciiflask/blob/main/server/static/results/result.png" width="250"> |
 
 ## Contributing
 
